@@ -1,0 +1,7 @@
+//Siddharth Singh and Chaitany Pandiya
+//17CO146 and 17CO112
+//Instruction Memory using Verilog
+//1 January 2019
+At every posedge pc is incremented by 4.
+Instruction Memory has been implemented by using a 2-D array. PC stores the index of that array and gets incremented by 4 at every posedge. 
+Then if we give a reset signal it again points to the first instruction in the instruction memeory.
