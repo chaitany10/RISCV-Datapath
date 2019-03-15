@@ -1,0 +1,7 @@
+//Chaitany Pandiya and Siddharth Singh
+//17CO146 and 17CO112
+//Instruction Memory using Verilog
+//1 January 2019
+
+We have implemented a Data Memory that takes clock, Data to be written,address,and the varaiable w(which specifies the mode of operation) as input. 
+It give output as Data Out.We have first stored data in some addresses and then read them through the data memory.
